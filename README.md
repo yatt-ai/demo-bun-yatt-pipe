@@ -5,9 +5,6 @@ A simple calculator demo with Bun's built-in test runner.
 ## Installation
 
 ```bash
-# Install Bun if you don't have it
-curl -fsSL https://bun.sh/install | bash
-
 # Install dependencies
 bun install
 ```
