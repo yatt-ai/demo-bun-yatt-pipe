@@ -18,11 +18,6 @@ bun install
 # Run all tests
 bun test
 
-# Run tests in watch mode
-bun test --watch
-
-# Run tests with coverage
-bun test --coverage
 ```
 
 ## Generating Test Reports
@@ -34,8 +29,6 @@ bun test --coverage
 bun test --reporter=junit --reporter-outfile=test-results.xml
 ```
 
-## Running the Application
+## Learn More
 
-```bash
-bun src/index.ts
-```
+For more information about this project, check out our [blog post](https://example.com/blog-post) (coming soon).
